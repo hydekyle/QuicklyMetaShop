@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6831be388f3d9e46a1f7134ad40e319, type: 3}
+  m_Name: Socks
+  m_EditorClassIdentifier: 
+  goToShopLink: https://tryharder.shop/collections/
+  title: Men's Premium Organic Socks BORED APES X TRYHARDER
+  price: 16.95
+  description: "TRYHARDER is eco-friendly innerwear that emboldens you to feel comfortable
+    with your choices.\r\n\r\n    Mid-rise waist.\r\n    Very soft and breathable
+    organic cotton.\r\n    95% organic cotton/ 5% Elastane.\r\n\r\nDesigned from
+    Belgium, Produced in Portugal."
+  colorVariants: []

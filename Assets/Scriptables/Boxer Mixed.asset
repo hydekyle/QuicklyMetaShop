@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6831be388f3d9e46a1f7134ad40e319, type: 3}
+  m_Name: Boxer Mixed
+  m_EditorClassIdentifier: 
+  goToShopLink: https://tryharder.shop/products/tryharder-x-bored-apes-mixed-waistband-boxer
+  title: TRYHARDER X BORED APES | MIXED WAISTBAND BOXER
+  price: 16.79
+  description: "\nCan\u2019t choose your favourite NFT avatar? We get it. But here\u2019s
+    some good news for you \u2013 you don\u2019t have to! Collect all the apes with
+    the MIXED WAISTBAND BOXER. As an added bonus, this pair is as comfy as it is
+    cool with a light, breathable fabric and flexible mid-rise waistband. \n\n  \u2022
+    NFT Bored Apes collectible. \n  \u2022 A rare find, just like you: these boxers
+    come with a unique ape number.\n  \u2022 Super soft blend of 95% organic cotton
+    and 5% elastane. \n  \u2022 Looking cool doesn\u2019t have to cost the earth.
+    For every order we plant a tree.\n"
+  colorVariants: []

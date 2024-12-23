@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6831be388f3d9e46a1f7134ad40e319, type: 3}
+  m_Name: Tshirt Essential
+  m_EditorClassIdentifier: 
+  goToShopLink: https://tryharder.shop/products/tryharder-x-bored-apes-essential-t-shirt-4567
+  title: TRYHARDER X BORED APES | ESSENTIAL T-SHIRT #4567
+  price: 29.99
+  description: "\nWear the Bored Apes NFT collectible as a badge of honour with this
+    comfy crew-neck T-shirt. Anything but boring, the tees are available in grey,
+    bordeaux and white and are a great way to elevate your everyday essentials.\n\n 
+    \u2022 NFT Bored Apes collectible. \n  \u2022 A rare find, just like you: these
+    tees come with a unique ape number (#4567).\n  \u2022 Hot off the press! Our
+    items are printed on demand, especially for you. This also means we don\u2019t
+    over-produce, making these a solidly sustainable choice.\n  \u2022 Looking cool
+    doesn\u2019t have to cost the earth. For every order we plant a tree.\n"
+  colorVariants:
+  - {fileID: 2100000, guid: ac7ced9c71d041c48a093e6797ed0737, type: 2}
+  - {fileID: 2100000, guid: e9dc5a2bf19f0e442af5abb36ec69284, type: 2}
+  - {fileID: 2100000, guid: 701478aa94b11ef41a0f9650b7a5733f, type: 2}

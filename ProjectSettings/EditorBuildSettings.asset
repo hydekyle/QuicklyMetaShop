@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PalArt Gallery.unity
+    guid: a23d04b4a5ba64344901338b69e94366
+  - enabled: 0
+    path: Assets/Scenes/Erve Shop.unity
+    guid: 5b3a777ba3cc750409bdbccd9fbf71c2
+  - enabled: 0
+    path: Assets/Scenes/Liquor Shop.unity
+    guid: 218858628fb1c9d4ebb28ac56da34eb8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Meta Shop.unity
+    guid: c04cdf4c3f37fa1458750ef3e3e110d2
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 28f7e284d3e09e04f92cc0e898047d86,
+      type: 2}

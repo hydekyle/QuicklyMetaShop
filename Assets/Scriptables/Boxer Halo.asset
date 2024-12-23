@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6831be388f3d9e46a1f7134ad40e319, type: 3}
+  m_Name: Boxer Halo
+  m_EditorClassIdentifier: 
+  goToShopLink: https://tryharder.shop/products/tryharder-x-bored-apes-halo-boxer-1518
+  title: TRYHARDER X BORED APES | HALO BOXER #1518
+  price: 16.79
+  description: "\nTake it from us, basics don\u2019t have to be boring. Represent
+    your favourite Bored Apes NFT avatar with the  HALO BOXER #1518. Add some exclusivity
+    to your underwear collection with this comfortable but oh so on-trend pair. \n\n 
+    \u2022 NFT Bored Apes collectible. \n  \u2022 A rare find, just like you: these
+    boxers come with a unique ape number (#1518).\n  \u2022 Super soft blend of 95%
+    organic cotton and 5% elastane. \n  \u2022 Looking cool doesn\u2019t have to
+    cost the earth. For every order we plant a tree.\n"
+  colorVariants: []

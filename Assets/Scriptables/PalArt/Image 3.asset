@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3feff9dcb0a3fdd45b3929665f04eba2, type: 3}
+  m_Name: Image 3
+  m_EditorClassIdentifier: 
+  description: "Tuqa Al Sarraj is a Dublin based multidisciplinary visual artist.
+    In 2021 she received her BA in Fine Art media from the National College of Art
+    and Design. Al Sarraj has also previously studied contemporary art at the International
+    Academy of Art Palestine (IAAP), Ramallah. \r\n\r\nHer practice combines mixed-media,
+    found objects, collage, photography, video, performance and installation. More
+    recently, she has been navigating themes of storytelling, memory, loss, and exile
+    through social dialogues and personal conversations. \r\n\r\nTuqa has exhibited
+    as part of group exhibitions in Oslo, London, Ramallah, Creil, Dublin and Limerick. "
+  websLink: https://palartcollective.com/tuqa-al-sarraj/
+  image: {fileID: 2800000, guid: d5c7676cf475a394daa57a043798faba, type: 3}

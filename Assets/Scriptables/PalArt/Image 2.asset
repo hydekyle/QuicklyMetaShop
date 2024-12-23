@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3feff9dcb0a3fdd45b3929665f04eba2, type: 3}
+  m_Name: Image 2
+  m_EditorClassIdentifier: 
+  description: "Gazan artist Duniyana Al-Amour was killed by Israeli airstrikes in
+    Gaza.  \n\r\nLike most of our community, we are devastated at any loss of life
+    in Palestine, and during the latest bombings this August, our hearts were broken
+    by the deaths of at least 44 people. \r\n\r\nWe know that artists are silenced,
+    censored and murdered by the Israeli regime, and we stand in solidarity against
+    the death of any artist, and any Palestinian.  \r\n\r\nWe condemn this murder
+    and the murder of 44 Palestinian lives.  \r\n\r\nIn honour of her work, we want
+    to showcase Duniyana Al-Amour\u2019s pieces."
+  websLink: https://palartcollective.com/members/
+  image: {fileID: 2800000, guid: 283c95659d537af4bba29de1e9ad53a6, type: 3}

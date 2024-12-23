@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3feff9dcb0a3fdd45b3929665f04eba2, type: 3}
+  m_Name: Image 1
+  m_EditorClassIdentifier: 
+  description: "Nayrouz Qarmout is a journalist, author and women\u2019s rights campaigner.\n
+    Born in Yarmouk Refugee Camp, Damascus, in 1984, as a Palestinian refugee, she
+    was \u2018returned\u2019 to the Gaza Strip at the age of 11 as part of the 1994
+    Oslo Peace Accord, where she now lives. \n\nShe used to work in the Ministry
+    of Women\u2019s Affairs, raising awareness of gender issues and promoting the
+    political and economic role of women in policy, law, and the media. \n\nShe has
+    won a number of prizes including the English Pen Award and the Creative Women\u2019s
+    Award for her debut collection The Sea Cloak. "
+  websLink: https://palartcollective.com/nayrouz-qarmout/
+  image: {fileID: 2800000, guid: 584a36e9aa96b2342b396939ed855afa, type: 3}

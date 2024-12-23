@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ebfd86cb6860aba4689c6ec3ca343bbe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Garet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85fa080bc4004914c98ef0cd47f39147, type: 3}
+  - {fileID: 12800000, guid: 83a8a395486d4e64bb33f6fafe992463, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

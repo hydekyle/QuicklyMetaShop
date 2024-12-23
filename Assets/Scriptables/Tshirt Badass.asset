@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6831be388f3d9e46a1f7134ad40e319, type: 3}
+  m_Name: Tshirt Badass
+  m_EditorClassIdentifier: 
+  goToShopLink: https://tryharder.shop/products/tryharder-x-bored-apes-badass-t-shirt-9461
+  title: TRYHARDER X BORED APES | BADASS T-SHIRT #9461
+  price: 29.99
+  description: "\nCap-tivate in this Bored Apes X TRYHARDER collectible NFT T-shirt.
+    The ideal addition to any wardrobe of those who stand out from the crowd (yes,
+    we\u2019re looking at you). The comfy and cool crew-neck T-shirts are available
+    in three classic colours: black, dark blue and white. \n\n  \u2022 NFT Bored
+    Apes collectible. \n  \u2022 A rare find, just like you: these tees come with
+    a unique ape number (#9461).\n  \u2022 Hot off the press! Our items are printed
+    on demand, especially for you. This also means we don\u2019t over-produce, making
+    these a solidly sustainable choice.\n  \u2022 Looking cool doesn\u2019t have
+    to cost the earth. For every order we plant a tree.\n"
+  colorVariants:
+  - {fileID: 2100000, guid: 0d7a590dec0355f4bbb56efd97ce0ec1, type: 2}
+  - {fileID: 2100000, guid: 52e02956d0f3f2046b7cd08dffe16be6, type: 2}
+  - {fileID: 2100000, guid: 04620c66b9154dd4cbfad419efafbbbf, type: 2}
